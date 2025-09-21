@@ -17,3 +17,6 @@ Works well with [reddit-uncensored](https://github.com/Fubs/reddit-uncensored)
 
 
 You are free to add in a pull request for more features and raise issues.
+
+
+Additonally you can load it as an extension for firefox (dev) with the provided zip.
