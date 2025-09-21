@@ -11,6 +11,6 @@ Click "Load Temporary Add-on"
 
 Select any of the files in your extension folder ``reddit-archive``.
 
-Settings are in ``about:addons`` preferences.
+Settings are in ``about:addons`` inside ``preferences``.
 
 Works well with [reddit-uncensored](https://github.com/Fubs/reddit-uncensored)
