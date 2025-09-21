@@ -1,4 +1,4 @@
-# ihsoyct-redirect
+# usertoihsoyct
 redirect when clicking a reddit username
 
 How to install?
