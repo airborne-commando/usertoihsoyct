@@ -1,5 +1,5 @@
 # usertoihsoyct
-redirect when clicking a reddit username
+redirect to [ihsoyct](https://ihsoyct.github.io/) when clicking a reddit username
 
 How to install?
 
