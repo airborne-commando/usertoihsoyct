@@ -3,15 +3,7 @@ redirect to [ihsoyct](https://ihsoyct.github.io/) when clicking a reddit usernam
 
 How to install?
 
-Open Firefox and go to ``about:debugging``
-
-Click "This Firefox" in the left sidebar
-
-Click "Load Temporary Add-on"
-
-Select any of the files in your extension folder ``reddit-archive``.
-
-Settings are in ``about:addons`` inside ``preferences``.
+Simply go to [web-ext-artifacts/](./web-ext-artifacts/) and install 7af778b79f7446b0bb61-1.0.xpi.
 
 Works well with [reddit-uncensored](https://github.com/Fubs/reddit-uncensored)
 
