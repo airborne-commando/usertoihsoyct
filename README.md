@@ -4,7 +4,7 @@ Will redirects to [ihsoyct](https://ihsoyct.github.io/) when clicking a reddit u
 
 How to install?
 
-Simply go to the [releases page](https://github.com/airborne-commando/usertoihsoyct/releases/tag/1.0) and let github install it.
+Simply go to the [releases page](https://github.com/airborne-commando/usertoihsoyct/releases) and let github install it.
 
 Works well with [reddit-uncensored](https://github.com/Fubs/reddit-uncensored)
 
